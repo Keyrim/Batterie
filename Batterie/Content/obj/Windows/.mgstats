@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/bass_drum.wav","C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/bin/Windows/bass_drum.xnb","SoundEffectProcessor","SoundEffectContent",98584,64425,0,2202111
+"C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/caisse_claire.wav","C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/bin/Windows/caisse_claire.xnb","SoundEffectProcessor","SoundEffectContent",216424,142569,0,132441
+"C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/closed_hithat.wav","C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/bin/Windows/closed_hithat.xnb","SoundEffectProcessor","SoundEffectContent",106596,69737,0,128852
+"C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/crash.wav","C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/bin/Windows/crash.xnb","SoundEffectProcessor","SoundEffectContent",990708,656041,0,1391854
+"C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/File.spritefont","C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0,2517947

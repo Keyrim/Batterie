@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/File.spritefont</SourceFile>
+  <SourceTime>2019-03-23T11:50:50+01:00</SourceTime>
+  <DestFile>C:/Users/Theo/Documents/Projet/Batterie/Batterie/Content/bin/Windows/font.xnb</DestFile>
+  <DestTime>2019-04-07T11:11:09.9135873+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-03-23T11:52:00+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-03-23T11:52:00+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
